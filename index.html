@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>coded record</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Code Editor <span>💻</span></h1>
+    
+    <div class="editor">
+      <div class="left">
+        <!-- HTML Code Input -->
+        <label for="htmlCode">
+          <i class='bx bxl-html5'></i> HTML
+        </label>
+        <textarea id="htmlCode" onkeyup="run()" spellcheck="false" placeholder="Type HTML code here..."></textarea>
+        
+        <!-- CSS Code Input -->
+        <label for="cssCode">
+          <i class='bx bxl-css3'></i> CSS
+        </label>
+        <textarea id="cssCode" onkeyup="run()" spellcheck="false" placeholder="Type CSS code here..."></textarea>
+        
+        <!-- JavaScript Code Input -->
+        <label for="jsCode">
+          <i class='bx bxl-javascript'></i> JavaScript
+        </label>
+        <textarea id="jsCode" onkeyup="run()" spellcheck="false" placeholder="Type JavaScript code here..."></textarea>
+      </div>
+      
+      <!-- Right: Live preview area -->
+      <div class="right">
+        <label>
+          <i class='bx bx-play'></i> Output
+        </label>
+        <iframe id="output" title="Output Preview"></iframe>
+      </div>
+    </div>
+  </div>
+  
+
+  <script src="script.js"></script>
+</body>
+</html>
