@@ -53,20 +53,9 @@ To host the project on a local server, you can use the following options:
 
 ---
 
-## Contributions
-
-Contributions are welcome! To contribute:  
-1. Fork the repository.  
-2. Create a new branch for your feature or bug fix.  
-3. Submit a pull request.  
-
----
-
 ## License
 
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute the code with attribution. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-Happy Coding! 😊
