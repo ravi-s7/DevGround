@@ -1,4 +1,4 @@
-# DevGround
+# DevGround - Your Playground for Code
 
 **DevGround** is a lightweight, browser-based code editor designed for real-time HTML, CSS, and JavaScript development. It provides a seamless way to write and preview your code on the go, making it an ideal tool for quick experiments and learning web development.  
 
@@ -13,7 +13,13 @@
 
 ---
 
-## How to Use
+## Live Demo
+
+You can view the live version of the project at [DevGround](https://ravi-s7.github.io/DevGround/).
+
+---
+
+## Use locally / offline
 
 1. Clone or download the repository.  
    ```bash
@@ -25,6 +31,8 @@
    - The output will be displayed live on the right-hand side.
 
 ---
+
+
 
 ## Project Structure
 
@@ -56,6 +64,6 @@ To host the project on a local server, you can use the following options:
 ## License
 
 This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute the code with attribution. See the [LICENSE](LICENSE) file for more details.
+You are free to use, modify, and contribute. See the [LICENSE](LICENSE) file for more details.
 
 ---
