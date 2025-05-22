@@ -1,13 +1,13 @@
-# DevGround 🚀✨  
-Your Playground for Code 🎨👩‍💻
+# DevGround 💻
+Your Playground for Code
 
-DevGround is a lightweight, browser-based code editor designed for real-time HTML, CSS, and JavaScript development. It provides a seamless way to write and preview your code on the go, making it an ideal tool for quick experiments and learning web development. 🌐
+DevGround is a lightweight, browser-based code editor designed for real-time HTML, CSS, and JavaScript development. It provides a seamless way to write and preview your code on the go, making it an ideal tool for quick experiments and learning web development.
 
 ## ✨ Features  
-- 🔍 **Live Code Preview**: Instantly see the output of your HTML, CSS, and JavaScript code.  
-- 🧘 **Minimalistic Design**: Clean and intuitive interface for a distraction-free coding experience.  
-- ⚡ **Real-Time Feedback**: Updates the output area as you type, enabling faster iterations.  
-- 📱 **Responsive Layout**: Works across different screen sizes for portability.  
+-  **Live Code Preview**: Instantly see the output of your HTML, CSS, and JavaScript code.  
+-  **Minimalistic Design**: Clean and intuitive interface for a distraction-free coding experience.  
+-  **Real-Time Feedback**: Updates the output area as you type, enabling faster iterations.  
+-  **Responsive Layout**: Works across different screen sizes for portability.  
 
 ## 🌍 Live Demo  
 Check out the live version of the project at [DevGround](https://ravi-s7.github.io/DevGround/).  
@@ -33,18 +33,9 @@ DevGround/
 
 ## 🔧 Installation  
 No installation required! DevGround is a static project and runs directly in the browser.  
-
 To host the project on a local server, you can use the following options:  
-
-### Live Server Extension (VS Code)  
-- Install the Live Server extension and right-click on `index.html` to launch it.  
-
-### Python HTTP Server  
-- Run the following command:  
-  ```bash
-  python -m http.server
-  ```  
-- Navigate to [http://localhost:8000](http://localhost:8000) in your browser.  
+- Directly open `index.html` with a browser or
+- Install the Live Server extension and right-click on `index.html` to launch it.   
 
 ## 📜 License  
 This project is licensed under the **MIT License**.  
